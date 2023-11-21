@@ -1,7 +1,7 @@
 # Spam Email Detection With TensorFlow and Python Dependencies
 
 :point_right:	
-[![Build Status](https://github.com/tahaalikhan123/Spam-Email-Detection-With-Tensorflow-And-Python-Dependancies/workflows/Your-Workflow-Name/badge.svg)](https://github.com/tahaalikhan123/Spam-Email-Detection-With-Tensorflow-And-Python-Dependancies/actions)
+[![Build Status](https://github.com/tahaalikhan123/Spam-Email-Detection-With-Tensorflow-And-Python-Dependancies/workflows/CI/badge.svg)](https://github.com/tahaalikhan123/Spam-Email-Detection-With-Tensorflow-And-Python-Dependancies/actions)
 
 ## Introduction
 This repository houses a spam email detection model implemented using TensorFlow and Python. The project aims to automatically classify emails into spam and non-spam categories, leveraging machine learning techniques provided by TensorFlow.
