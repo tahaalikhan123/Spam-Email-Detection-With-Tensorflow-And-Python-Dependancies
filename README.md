@@ -37,7 +37,7 @@ Plotted an ROC curve to visualize the trade-off between sensitivity and specific
 
 The Jupyter notebook is attached, play around with it and would love your inputs :)
 
-                                    <<<< Basic steps to follow and if you are new to Python and its dependancies >>>>
+##Basic steps to follow and if you are new to Python and its dependancies
 
                                                                <<<<For Windows>>>>
 Install Python 3 or higher version by visiting the official python website : https://www.python.org/downloads/
