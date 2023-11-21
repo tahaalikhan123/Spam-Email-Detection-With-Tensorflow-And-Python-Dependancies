@@ -37,9 +37,9 @@ Plotted an ROC curve to visualize the trade-off between sensitivity and specific
 
 The Jupyter notebook is attached, play around with it and would love your inputs :)
 
-<<<<Basic steps to follow and if you are new to Python and its dependancies>>>>
+                                    <<<< Basic steps to follow and if you are new to Python and its dependancies >>>>
 
-                                 <<<<For Windows>>>>
+                                                               <<<<For Windows>>>>
 Install Python 3 or higher version by visiting the official python website : https://www.python.org/downloads/
 
 Install jupyter :
@@ -57,9 +57,7 @@ In the CMD type:
 jupyter notebook
 Press enter....   this will open a jupyter notebook in your default browser
 
-                                <<<<For macOS>>>>
+                                                               <<<<For macOS>>>>
 Refer to online guides, not a mac user so my badddddd 
 xD
 Probably chatgpt or some other AI tool might help you out...
-
-
